@@ -12,6 +12,7 @@ This is a simple and intuitive weather web application built using HTML, CSS, an
 ## Technologies Used
 - **HTML**: Structure and content of the web app.
 - **CSS**: Styling and layout for a visually appealing interface.
+- **Tailwind CSS**: Designing with responsiveness and following efficient approach. 
 - **JavaScript**: Logic and functionality to interact with the weather API and update the UI dynamically.
 - **Weather API**: Provides real-time weather data for the searched locations.
 
